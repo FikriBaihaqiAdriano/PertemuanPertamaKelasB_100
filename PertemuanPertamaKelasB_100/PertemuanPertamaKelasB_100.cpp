@@ -15,5 +15,6 @@ int main()
 
     int nPanjang, nLebar, nLuas;
     cout << "Masukkan Panjang = ";
+    cin >> nPanjang;
 } // end
 
