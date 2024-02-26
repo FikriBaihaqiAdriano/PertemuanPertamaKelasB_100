@@ -4,7 +4,13 @@
 using namespace std;
 
 int main()
-{
-    //numeric nPanjang, nLebar, nLuas
-}
+{   // begin
+    // numeric nPanjang, nLebar, nLuas
+    // display 'Masukkan Panjang'
+    // accept nPanjang
+    // diplay 'Masukkan Lebar'
+    // accept nLebar
+    // compute nLuas = nPanjang * nLuas
+    // display 'Luasnya adalah = ' + nLuas
+} // end
 
